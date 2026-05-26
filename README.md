@@ -1,5 +1,26 @@
+# Retail Sales Analytics Project
 
----
+## 📌 Overview
+This project integrates **PostgreSQL** (for data storage and queries) with **Power BI** (for visualization) to deliver actionable insights across:
+- Sales performance
+- Inventory optimization
+- Customer behavior
+- Staff productivity
+
+The solution enables management to monitor KPIs, optimize inventory, evaluate staff, and improve customer satisfaction.
+
+## 🗂 Project Structure
+
+Retail-Sales-Analytics/
+├── Retail Sales Analytics Project Report.pdf   # Detailed project report
+├── SQL_Scripts/                                # SQL queries for analysis
+│   ├── sales_queries.sql
+│   ├── inventory_queries.sql
+│   └── customer_staff_queries.sql
+└── Dashboards/                                 # Power BI dashboard screenshots
+├── Sales_Dashboard.png
+├── Inventory_Dashboard.png
+└── Customer_Staff_Dashboard.png
 
 ## 📊 Dashboards
 - **Sales Dashboard**: KPIs (Total Sales, Orders, Customers), category/store breakdown, monthly trends.
